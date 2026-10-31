@@ -1,0 +1,13 @@
+# Modelos y presupuestos: nunca se versionan (licencias y datos de empresas)
+datasets/
+*.ifc
+*.ifcx
+*.rvt
+*.xlsx
+
+# Entorno y secretos
+.env
+.env.*
+node_modules/
+__pycache__/
+.venv/
